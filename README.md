@@ -1,3 +1,10 @@
+
+file:///home/user/Downloads/WhatsApp%20Image%202023-11-23%20at%2012.39.43%20PM.jpeg
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development projects.<br><br>👯 I’m looking to collaborate on open-source web development projects.<br><br>🤝 I’m looking for help with improving my coding skills and learning new technologies.<br><br>🌱 I’m currently exploring back-end development.<br><br>💬 Ask me about anything related to web development, Golang, Javascript, Nodejs, Reactjs, DynamoDB<br><br>⚡ Fun fact: I'm lazy and smart
 
