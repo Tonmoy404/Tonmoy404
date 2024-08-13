@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoy404&show_icons=true&locale=en" alt="tonmoy404" /></p>
 
-<a href="https://instagram.com/tonmoy.error404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoy.error404" height="30" width="40" /></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoy404" alt="tonmoy404" /></a> </p>
