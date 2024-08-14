@@ -1,6 +1,6 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Tonmoy Barai</h1>
+<h1 align="center">Hi 👋, I'm Tonmoy Baroi</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" >
 
