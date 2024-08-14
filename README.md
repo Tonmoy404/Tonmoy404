@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Barai</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy404&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy404" /> </p>
 
